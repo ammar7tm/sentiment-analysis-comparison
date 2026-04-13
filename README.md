@@ -33,6 +33,7 @@ IMDb dataset from Hugging Face.
 1. Open notebook in Google Colab
 2. Run all cells
 3. GPU recommended for DistilBERT
+4. The notebook loads the IMDb dataset directly from the Hugging Face datasets library, so no manual dataset download is required.
 
 ## Author
 Ammar Ismail
